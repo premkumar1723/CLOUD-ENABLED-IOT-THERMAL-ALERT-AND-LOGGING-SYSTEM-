@@ -315,7 +315,7 @@ Enable automated thermal safety monitoring.
 
 ## 👨‍💻 Author
 
-### Balu Gaddam
+### Prem Kumar Gaddam
 
 🎓 Embedded Systems Engineer
 
@@ -339,4 +339,4 @@ If you found this project useful:
 
 This project is developed for educational and learning purposes.
 
-© 2026 Balu Gaddam
+© 2026 Prem Kumar Gaddam
